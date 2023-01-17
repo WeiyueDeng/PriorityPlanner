@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alexa-priority-planner",
+  "private_key_id": "128bef14b124420a214ad3f3096f9704288501df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDjBbDjCNMI2yK\nqZ25fK3QvA30sQ8tbcHWSx5H6SHg0J1JjzWNHGi1kam9BZhsE9aKx182Nzy+aWIL\n7pL6+pM5o/6HdFqNBEI8ZgyrLrS5a/oNNh2hx+rKE2ISdxZiQQw/VI8Y1LejNjPe\ngpGqoHd95PmV6vzYY8J1P8N9rv2NXlJhy6t8Lm9twhhx6ZKAENPUSmgXYN04eQ0h\nlkl6p2Q+Fr6ShQpI6v5M6HQRZhi3ovAIkclUUgUmMzPs92SoolC3oVgTdzX7HR+h\n03ij0qvptHouL/w8ZtIeGSFWyq0PgKlr1fFvlykaXMhRCdjNP4RSwuU8RPrIxWTm\n7njsR97jAgMBAAECggEALn12yATgO3DMlGbg/cFbnZ2n/728qwNGK0luqJAPouBW\nFK/8flD7v/cikLLs2v0Ya6Qcycn2Ihrx2X5d6Vd7ex+3GsMZ6B7UFIH6jxQqmU7H\ngy6TeuwJsQNMtLElXDS00bWr0652/lGboVIPia5e2kp+4BqfBF8rUy7WrmHVHC+e\n8CtocQ0k4uzN2h0EgjIxGady1IKSAobqxF40v0cvyA2Tl8FAmPllIKsLX7WMe2ga\nuqseuGRm1N4YwVRMSqGDMOVg9dqHH0zU14iFtkENTyHjUsRI4S2GL77luT4orCD8\n2djksRt144oPr1SKYXw3i3PJ3mlWluVFGjfAz4cLiQKBgQDusat3XnwrNq0ZiBcc\n2LcztOiB6Q8vVwjBRSif7Ns2hy8kcMgUaMtjK+XbH3HviAH0gHKbhMWoFaBXG38N\no/GEdM0cJU7UJvkss36b+3kJ0phHT5wSKlP6d/7KQCVRHKcTzMTKpr3bX3tVfhGm\nSkVMpIIyO1VYcWo+B8feNQs8jQKBgQDRuZV9PVTYUQOZijuizPKNtPApLyq26mkp\nJ9f/Qzz0d6zWOm9z/ZEOJ/18qACcpGwGizJc9QpIC8b4GhdK5NobRHqonNpOT/Wt\n0byhqQLfQdNbGK6BG0Bhj2DiUPV5fEtyUL+EXxF6kXX1Qe+Tf8OBFIJdoPJxlrrb\nsfhNq20FLwKBgGTiHNlnys0s375hwXsEsXGeLYLysONOQroE8+Wb4w7J1gftzvKp\nVAUHQa/6O1qEvmbLfyTx2eRvt4P5cBqgxuw3vZT+w7FxA3F8L6/XelHHe2rwX8Nh\ntnqvCrYKpHsCxC7fJfGMxcOZOHRqwyToUR/Si+CVKT4nOUMcYMIu4x/lAoGAXC6c\nXG4GywXg9S3jRI2c11h+bzvCJKAoFOTkddiSBEpN9+O7dVow1e4R5ybZDgDfUokA\nXAeAu2Yh0I93SX4JuA6Dc3VuJxnSPNKBfPUSxBrk0ZeprCnURI2G4jL/kqRlbRu8\n8mvu/NbO6DxRF54Cysu++XRy3CaKf2JcZ5c/1hUCgYBrs3baV7rt0P7sO+czi97Q\nIE1I7bMroh5Opvw66bjZJGmyvQmy5Z1j2xpb6BiML5sAjPIi4OONf7ACWiF2Gakw\nhSYI9eTzhjfuDkhQ+0zL/0gVvhA7KfsCpv9Px+i1Ue0IyVojT/BkZEE8gEv2/L9r\nfrNjcaWUv/QcVlPcoYwUFw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rewfl@alexa-priority-planner.iam.gserviceaccount.com",
+  "client_id": "102486596229384627969",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rewfl%40alexa-priority-planner.iam.gserviceaccount.com"
+}

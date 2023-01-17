@@ -1,0 +1,108 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "preview": {
+            "assets": {
+              "mobileRectangle": {}
+            }
+          },
+          "summary": "Planner that records the priority level of each task",
+          "examplePhrases": [
+            "Alexa, ask priority planner to read items",
+            "Alexa, ask priority planner to remove the first two items",
+            "Alexa, ask priority planner to read items due today"
+          ],
+          "keywords": [
+            "priority",
+            "planner"
+          ],
+          "name": "priority planner",
+          "description": "It\u0027s time to get your priorities in order! \nThis is a planner for people who have a lot of things to do and don’t have time to schedule those by themselves. For example, college students with a lot of homework, employees with multiple projects, etc..\nThis planner solves your problem of having too many tasks to do and being overwhelmed. It can help you organize your thoughts as the planner lays out everything you need to do.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "Read items\nAdd items\nRemove items\nEdit items",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Open the planner by saying Alexa, open priority planner",
+      "category": "ORGANIZERS_AND_ASSISTANTS",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+            }
+          }
+        }
+      }
+    },
+    "events":{
+      "endpoint": {
+        "uri": "arn:aws:lambda:us-east-1:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+      },
+      "subscriptions": [
+        {
+          "eventName": "SKILL_ENABLED"
+        },
+        {
+          "eventName": "SKILL_DISABLED"
+        }
+      ],
+      "regions": {
+        "EU": {
+          "endpoint": {
+            "uri": "arn:aws:lambda:eu-west-1:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+          }
+        },
+        "NA": {
+          "endpoint": {
+            "uri": "arn:aws:lambda:us-east-1:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+          }
+        },
+        "FE": {
+          "endpoint": {
+            "uri": "arn:aws:lambda:us-west-2:129401416032:function:67639817-3a26-4128-9c4d-a1961121c0b4:Release_1"
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "shoppingKit": {
+        "isShoppingActionsEnabled": false,
+        "isAmazonAssociatesOnAlexaEnabled": false
+      },
+      "usesPersonalInfo": false
+    }
+  }
+}
